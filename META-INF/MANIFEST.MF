@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: algolia
+Bundle-Name: Algolia
+Bundle-Version: 1.0.0
+Package-Type: Web-Component
+
+Name: places/places.spec
+Web-Component: True
+
